@@ -1,0 +1,11 @@
+.vs/
+
+Staff.sln
+
+Staff.vcxproj
+
+Staff.vcxproj.filters
+
+Staff.vcxproj.user
+
+cmake-build-debug/
