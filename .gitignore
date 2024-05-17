@@ -1,5 +1,7 @@
 .vs/
 
+x64/
+
 Staff.sln
 
 Staff.vcxproj
